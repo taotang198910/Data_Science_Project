@@ -1,6 +1,6 @@
-# Data-Science-Projects
+# Data Science Projects
 
-Small projects about how to do data analysis, visualization and prediction by utilizing Python.
+Small projects about how to do data analysis, visualization and prediction by utilizing Python and Jupyter Notebook.
 
 ### Requirements:
 * Python 3
