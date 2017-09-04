@@ -3,7 +3,7 @@
 You can view `911 calls.ipynb` directly on github, or clone the repository and open on Jupyter Notebook.
 
 ### Introduction
-For this project we analyzd some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). 
+For this project we analyzd some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert), by mainly used pandas,matplotlib and seaborn.
 
 ### Requirements
 * Python3
