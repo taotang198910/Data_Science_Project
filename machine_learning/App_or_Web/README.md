@@ -1,10 +1,6 @@
 # Mobile App or Website
 
-You can view `App_or_Web.ipynb` directly on github, or clone the repository.
-### Manual 
-* Clone the repository
-* Install requirements
-* Open `App_or_Web.ipynb` on Jupyter Notebook.
+You can view `App_or_Web.ipynb` directly on github, or clone the repository and open file on Jupyter Notebook.
 
 ### Intro
 The Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
