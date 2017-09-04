@@ -3,8 +3,7 @@
 You can view `App_or_Web.ipynb` directly on github, or clone the repository.
 ### Manual 
 * Clone the repository
-* Install Python 3 
-* Install the Python requirements with `pip install -r requirements.txt`
+* Install requirements
 * Open `App_or_Web.ipynb` on Jupyter Notebook.
 
 ### Intro
