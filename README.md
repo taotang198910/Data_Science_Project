@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Small projects on data analysis, visualization and machine learning by utilizing Python and Jupyter Notebook.
+Small projects on data analysis, visualization and machine learning by utilizing Python3 and Jupyter Notebook.
 
 ### Requirements:
 * Python 3
