@@ -12,8 +12,7 @@ You can view `Bank_Stock_Prices.ipynb` directly on github, or clone the reposito
 * Cufflinks
 * Jupyter Notebook
 
-If you need to install plotly:
-`pip3 install plotly`
+Install plotly if needed: `pip3 install plotly`
 
 ### Introduction
 In this project we focus on exploratory data analysis of stock prices of several banks, and see how they progressed throughout the financial crisis(2007-2008) all the way to early 2016.
