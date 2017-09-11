@@ -15,7 +15,7 @@ You can view `Bank_Stock_Prices.ipynb` directly on github, or clone the reposito
 Install plotly if needed: `pip3 install plotly`
 
 ### Introduction
-In this project we focus on exploratory data analysis of stock prices of several banks, and see how they progressed throughout the financial crisis(2007-2008) all the way to early 2016. I preferred visualization libraries matplotlib, seaborn and plotly in this project.
+In this project we focus on exploratory data analysis of stock prices of several banks, and see how they progressed throughout the financial crisis(2007-2008) all the way from 2006 to early 2016. I preferred visualization libraries matplotlib, seaborn and plotly in this project.
 Bank info:
  * Bank of America (NYSE: BAC)
  * CitiGroup (NYSE:C)
