@@ -24,5 +24,4 @@ Bank info:
  * Morgan Stanley (NYSE:MS)
  * Wells Fargo (NYSE:WFC)
 
-This project is just meant to practice your visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
 
