@@ -24,4 +24,10 @@ Bank info:
  * Morgan Stanley (NYSE:MS)
  * Wells Fargo (NYSE:WFC)
 
-
+### Data Analysis questions:
+1. What is the max Close price for each bank's stock throughout the time period?
+2. What dates each bank stocks had the best and worst single day returns?
+3. Which stock would you classify as the riskiest over the entire time period? Which would you classify as the riskiest for the year 2015?
+4. Showing Close Price for each banks for the entire time
+5. Showing Close Price moving averages for Bank Of America's stock for the year 2008
+6. Heatmap of the correlation between the stocks Close Price
