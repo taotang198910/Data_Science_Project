@@ -9,8 +9,8 @@ This project involves taking messy data, then cleaning it up and doing analysis.
 
    1. Filling in missing values
    2. Correcting erroneous datatype: some object datatype shoudl be numeric.
-   3. Normalizing values: convert all values of EmployeeName and JobTitle to uppercase and prepare for future analysis.
-   4. Standardizing categories: In many cases where data is collected from users directly – particularly using free text fields –   
+   3. Normalizing values: convert all values of EmployeeName and JobTitle to uppercase and prepare for future analysis.
+   4. Standardizing categories: In many cases where data is collected from users directly – particularly using free text fields –   
      spelling mistakes, language differences or other factors will result in a given answer being provided in multiple ways. For example,      under the JobtTitle column, data inevitably contain multiple spellings of the same job title (e.g. CHIEF OF DEPARTMENT, (FIRE  
      DEPARTMENT),  CHIEF, FIRE DEPARTMENT)
 
