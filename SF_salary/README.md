@@ -15,11 +15,11 @@ This project involves taking messy data, then cleaning it up and doing analysis.
 
 ## Exploratory Data Analysis
 Using Matplotlib and Seaborn to do EAD by answering follow questions:
-  1. Should use mean or median to do following EAD?
+  1. Should use mean or median to do following EAD by detecting outliers?
   2. Median value of BasePay,TotalPay and TotalBenefitsPay of each year.
-  3. Top 10 totalpay jobs in 2011 and 2014.
+  3. Top 10 TotalPay jobs in 2011 and 2014.
   4. TotalPay Distribution of Registered Nurse and FireFighter over years.
-  What are the median TotalPay and BasePay of Registered Nurse and FireFighter each year? How have their salaries changed over time? How are BasePay, OvertimePay, and Benefits allocated between them?
+  5. What are the median TotalPay and BasePay of Registered Nurse and FireFighter each year? How have their salaries changed over time? How are BasePay, OvertimePay, and Benefits allocated between them?
   
   
 ## Requirements
