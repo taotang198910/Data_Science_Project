@@ -7,7 +7,7 @@ For this project, I have analyzed data from Kaggle. This data contains the names
 
 This project involves taking messy data, then cleaning it up and doing analysis. Most party of this project are dealing with data cleaning.
 
-0. Filling in missing values
-0. Correcting erroneous datatype
-0. Normalizing values
-0. Standardizing categories
+  0. Filling in missing values
+  0. Correcting erroneous datatype
+  0. Normalizing values
+  0. Standardizing categories
